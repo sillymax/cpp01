@@ -1,7 +1,7 @@
-# Makefile for cp01/ex04
+# Makefile for cp01/ex06
 
 # Program name
-NAME := sed_is_for_losers
+NAME := harlFilter
 
 # Directory paths
 SRC_DIR := src
